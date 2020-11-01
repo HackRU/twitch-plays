@@ -1,0 +1,5 @@
+# Ignore folders
+__pycache__/
+build/
+dist/
+twitch_plays_hackRU.egg-info/

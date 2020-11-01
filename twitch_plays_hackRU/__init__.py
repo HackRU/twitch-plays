@@ -4,6 +4,7 @@ import requests
 
 votes = {"null": 0}
 
+# Inputs will be from the Twitch Channel
 class TwitchPlaysOnline:
 	def __init__(self, SERVER, PORT, PASS, BOT, CHANNEL, OWNER, OPTIONS = []):
 		self.SERVER = SERVER
@@ -137,6 +138,8 @@ class TwitchPlaysOnline:
 
 		return majority
 
+
+# Inputs will be from the command line
 class TwitchPlaysOffline:
 	def __init__(self, SERVER, PORT, PASS, BOT, CHANNEL, OWNER, OPTIONS = []):
 		self.SERVER = SERVER
