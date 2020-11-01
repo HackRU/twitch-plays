@@ -3,7 +3,7 @@ twitch_plays_hackru is a Python library for twitch chatters to be able to vote o
 
 ## Installation
 
-Use the package manager to install twitch_plays_hackru.
+```pip3 install twitch_plays_hackru.```
 
 ## Usage
 
