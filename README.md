@@ -1,2 +1,2 @@
 # Twitch Plays
-twitch_plays_hackRU
+twitch_plays_hackru

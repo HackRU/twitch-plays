@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="twitch_plays_hackRU", 
+    name="twitch_plays_hackru", 
     version="1.0.0",
     author="Jeffrey Fung",
     author_email="rnd@hackru.org",

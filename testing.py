@@ -1,5 +1,5 @@
 import threading
-from twitch_plays import TwitchPlaysOnline, TwitchPlaysOffline
+from twitch_plays_hackru import TwitchPlaysOnline, TwitchPlaysOffline
 
 playerChoice = None
 
