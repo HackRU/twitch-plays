@@ -7,7 +7,7 @@ setuptools.setup(
     name="twitch_plays_hackRU", 
     version="1.0.0",
     author="Jeffrey Fung",
-    author_email="jeff.fung07@gmail.com",
+    author_email="rnd@hackru.org",
     description="A TwitchPlays API",
     long_description=long_description,
     long_description_content_type="text/markdown",
