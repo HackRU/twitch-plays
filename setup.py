@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="twitch_plays_hackru", 
-    version="1.0.0",
+    version="1.1.0",
     author="Jeffrey Fung",
     author_email="rnd@hackru.org",
     description="A TwitchPlays API",

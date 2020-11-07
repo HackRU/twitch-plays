@@ -6,3 +6,4 @@ twitch_plays_hackRU.egg-info/
 venv/
 env/
 *.egg-info*
+*~
