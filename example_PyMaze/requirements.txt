@@ -1,0 +1,2 @@
+pygame==2.0.0
+twitch-plays-hackru==1.1.0
