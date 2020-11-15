@@ -1,6 +1,11 @@
 # Twitch Plays hackRU
 twitch_plays_hackru is a Python library for twitch chatters to be able to vote on commands in a game.
 
+## Important NOTE
+**DON'T UPLOAD YOUR OATH TOKEN TO GITHUB** it gives api acces to your account and somone can use
+your account without your permission if its public. also if you are submitting a hack, we don't
+need your oath key, we will enter our own for our demo stream so don't worry.
+
 ## Installation
 
 ```pip3 install twitch_plays_hackru.```
